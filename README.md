@@ -43,7 +43,7 @@
 ---
 
 ### 💬 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([linkedin.com/in/soujanya-ravikumar-26428425a](https://www.linkedin.com/in/soujanya-ravikumar-26428425a))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soujanya-ravikumar-26428425a)
 📫 Email me at: **soujanyaravi26@gmail.com**
 
 ---
