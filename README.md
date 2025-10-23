@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate AI & Full-Stack Developer | Building Smart, Real-World Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5E00&center=true&vCenter=true&width=435&lines=3rd+Year+AI+%26+ML+Student+at+UVCE;Lover+of+Tech%2C+Code+%26+Clean+Design;Full+Stack+%7C+AI+%7C+Cloud+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5E00&center=true&vCenter=true&width=435&lines=4th+Year+AI+%26+ML+Student+at+UVCE;Lover+of+Tech%2C+Code+%26+Clean+Design;Full+Stack+%7C+AI+%7C+Cloud+Explorer" alt="Typing SVG" />
 </p>
 
 ---
