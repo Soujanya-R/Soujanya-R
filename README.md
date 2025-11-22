@@ -18,7 +18,7 @@
 ### 🌟 My Top Projects
 | Project | Tech | Link |
 |--------|------|------|
-| ✈️ **Flight Ticket Booking System** | Next.js, Tailwind, MySQL | [View Repo](https://github.com/Soujanya-R/flight2) |
+| ✈️ **Flight Ticket Booking System** | Next.js, Tailwind, MySQL | [View Repo](https://github.com/Soujanya-R/Flight-Ticket-Booking-System) |
 | 🔐 **Oral Cancer Detector** | Python | [View Repo](https://github.com/Soujanya-R/Oral-Cancer-Detector) |
 | ✅ **Diabetes Predictor** | React, Tailwind | [View Repo](https://github.com/Soujanya-R/Diabetes-Predictor) |
 
