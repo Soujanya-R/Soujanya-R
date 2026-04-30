@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 - 🎓 Pursuing BTech in **Artificial Intelligence & Machine Learning** @ UVCE  
-- 🔐 Past projects: **Flight Ticket Booking System**, **Password Manager**, **To-Do List**, and more  
+- 🔐 Past projects: **Flight Ticket Booking System**, **Oral Cancer Detector**, **Emotion Virtual Assistant**, and more  
 - ✨ I love combining design, data, and logic to build impactful tools  
 - 🧠 Learning Cloud, AI tools, and sharpening my problem-solving every day  
 
