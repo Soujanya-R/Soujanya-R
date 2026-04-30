@@ -42,6 +42,22 @@
 
 ---
 
+### 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/Soujanya_Ravikumar/">
+    <!-- <img src="https://img.shields.io/badge/Solved-XXX_Problems-brightgreen?style=for-the-badge&logo=leetcode" /> -->
+    <img src="https://img.shields.io/badge/Ranking-774,586-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Contest-Active-orange?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Soujanya_Ravikumar?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
 ### 💬 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soujanya-ravikumar-26428425a)
 📫 Email me at: **soujanyaravi26@gmail.com**
